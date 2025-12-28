@@ -24,8 +24,3 @@ Main application script executed on the Raspberry Pi Pico W. This file handles s
 ## Notes
 
 This project was developed for an academic course and focuses on demonstrating core IoT and TinyML concepts.
-
-## Project members
-
-@shokoohmirfakhraei
-@nadira-03
