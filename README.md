@@ -12,4 +12,4 @@ Devices used: Raspberry Pi Pico W, MPU6050 sensor, 0.96" OLED display, LED indic
 
 ## Notes
 
-This project was developed for an academic course and focuses on demonstrating core IoT and TinyML concepts rather than production-level optimization.
+This project was developed for an academic course and focuses on demonstrating core IoT and TinyML concepts.
