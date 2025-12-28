@@ -10,6 +10,22 @@ Tech used: MicroPython, TinyML, MQTT Server, InfuxDB
 
 Devices used: Raspberry Pi Pico W, MPU6050 sensor, 0.96" OLED display, LED indicator
 
+## File Descriptions
+
+IOT_ML.ipynb
+This is used for training and exporting the TinyML activity recognition and fall detection model.
+
+model.py
+Contains the trained TinyML model. A single decision tree model was used.
+
+main_new.py
+Main application script executed on the Raspberry Pi Pico W. This file handles sensor data collection from the MPU6050, runs TinyML inference using the model, controls output devices (LED and OLED), and transmits results to the server via MQTT.
+
 ## Notes
 
 This project was developed for an academic course and focuses on demonstrating core IoT and TinyML concepts.
+
+## Project members
+
+@shokoohmirfakhraei
+@nadira-03
