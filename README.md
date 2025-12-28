@@ -4,7 +4,7 @@ This project implements an **activity recognition and fall detection** system us
 
 The goal of the project is to demonstrate an end-to-end IoT + TinyML pipeline, including sensing, on-device processing, wireless communication, and cloud integration.
 
-## How it's made
+## How It's Made
 
 Tech used: MicroPython, TinyML, MQTT Server, InfuxDB
 
