@@ -24,6 +24,10 @@ Contains the trained TinyML model. A single decision tree model was used.
 
 Main application script executed on the Raspberry Pi Pico W. This file handles sensor data collection from the MPU6050, runs TinyML inference using the model, controls output devices (LED and OLED), and transmits results to the server via MQTT.
 
+4. TinyML_RF_Pipeline.ipynb
+
+Random Forest–based TinyML pipeline for activity recognition and fall detection.
+
 ## Notes
 
 This project was developed for an academic course and focuses on demonstrating core IoT and TinyML concepts.
