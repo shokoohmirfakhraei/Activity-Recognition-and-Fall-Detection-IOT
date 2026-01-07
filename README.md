@@ -30,4 +30,4 @@ Random Forest–based TinyML pipeline for activity recognition and fall detectio
 
 ## Notes
 
-This project was developed for an academic course and focuses on demonstrating core IoT and TinyML concepts.
+This project was developed for an academic course and focuses on demonstrating core IoT and TinyML concepts and also a series of microservices.
